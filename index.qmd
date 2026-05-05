@@ -1,9 +1,9 @@
 ---
-title: "Sg's blog"
+title: "R Portfolio"
 listing:
   contents: posts
   feed: true
-  sort: "date desc"
+  sort: "date asc"
   type: default
   categories: true
   sort-ui: false
@@ -11,3 +11,8 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+<span style="font-size: 12px;">Welcome to my R portfolio. This portfolio highlights my work from ESCI 222: Data storytelling & sustainable development.</span>
+
+<br>
+

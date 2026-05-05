@@ -5,66 +5,146 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>blog</title>
+<title>Home</title>
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog built with Quarto</description>
+<description>Final R Portfolio for ESCI 222: Data storytelling &amp; sustainable development</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 21 Apr 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <title>Tempature and Rainfall Trends in Sewanee Tennesse</title>
+  <dc:creator>Sarah Grace Burns</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</link>
   <description><![CDATA[ 
 
 
 
 
-
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-4/sewanee.jpg" class="img-fluid"></p>
+<p><a href="https://thesewaneepurple.org/2018/10/05/a-list-of-things-you-have-to-do-before-cold-weather-hits-sewanee/">Image Source</a></p>
+<p>We know that climate change and global warming are affecting weather patterns on a global scale. Yet, at the local level, weather patterns can sometimes differ and follow different patterns than those soon globally.</p>
+<p>Changes in weather patterns can greatly affect local ecosystems. It is important to observe and understand how the effects of climate change are impacting a specific area because each location will be affected differently.</p>
+<p>This dashboard uses temperature and rainfall data to explore how weather patterns in Sewanee, Tennessee, have changed over time. Users can view long-term trends as well as directly compare specific years. This information can help reveal potential shifts in local climate patterns associated with climate change.</p>
+<p><a href="https://drive.google.com/file/d/1jb156qFFj94B59KLo2wGZ26R9PiAJHcK/view?usp=sharing">See how to use the dashboard and explore the data here!</a></p>
+<p>(<a href="https://github.com/burnssg0/data_story_4">GitHub Repo</a>)</p>
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Tue, 21 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <category>Place-Based</category>
+  <category>Climate-Change</category>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</guid>
+  <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/2026-05-04-data-story-4/sewanee.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <title>Non-Monetary Values of Farmland</title>
+  <dc:creator>Sarah Grace Burns</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</link>
   <description><![CDATA[ 
 
 
 
 
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-5/farmland.jpg" class="img-fluid"></p>
+<p><a href="https://www.landtrusttn.org/blog/the-farmland-preservation-act-what-it-means-for-tennessee-farmers/">Image Source</a></p>
+<p>As mentioned in my previous blog post, <a href="../../posts/2026-05-04-data-story-3/index.html">Looking Under the Crop and into the Weeds</a>, the stories and complexities behind farming are crucial for predicting what farmland will look like in the future and for understanding how farmers connect to their land. Recognizing the values that farmers associate with their land is essential for developing meaningful policies and cultivating environmentally friendly practices.</p>
+<p>Beyond providing economic gains, farmland also holds important non-monetary values for farmers. To better understand how farmers relate to their land, we asked them directly. Through these conversations, we gain insight into what this land means to people and how those values shape the way it is managed.</p>
+<p>This project includes a data entry app for recording responses during these interviews, as well as a website that explores and highlights some of this qualitative data.</p>
+<p><a href="https://burnssg0.github.io/data_story_5/">GitHub Site</a></p>
+<p>(<a href="https://github.com/burnssg0/data_story_5">GitHub Repo</a>)</p>
 
 
 
  ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Sat, 18 Apr 2026 05:00:00 GMT</pubDate>
+  <category>Agriculture</category>
+  <category>Place-Based</category>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</guid>
+  <pubDate>Tue, 28 Apr 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/2026-05-04-data-story-5/farmland.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Looking Under the Crop and into the Weeds</title>
+  <dc:creator>Sarah Grace Burns</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>What did you have for breakfast this morning?</p>
+<p>Maybe it was eggs and bacon? Maybe it was a bowl of cereal? Maybe it was just a cup of coffee.</p>
+<p>Whatever it was, I’m going to guess that while you ate it, you probably didn’t think much about where it came from. Not even the store it came from, but the land, seeds, the people who planted the seed, watered the crop, and harvested the product.</p>
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-3/farm.jpg" class="img-fluid"></p>
+<p><a href="https://www.conservationfund.org/our-impact/news-insights/connecting-the-next-generation-of-farmers-to-the-land/">Image Source</a></p>
+<p>We have become increasingly disconnected from the origin of our food: <strong>farms</strong>. Yet beyond sustaining us with the food we all consume every single day, farms have crucial social and ecological benefits that we often fail to recognize.</p>
+<p>Farmland has complex cultural and social implications, connecting the people who farm the land to their land. These connections have deep implications for the health of the local community as well as the farming populations as a whole.</p>
+<p>Ecologically, farmland, with good stewardship, provides a slew of ecosystem services. Farms can sequester carbon in the soil, help regulate water quality and water flow, provide habitat for species, and the list goes on. However, with poor management, farming can have immense detrimental effects on the environment as well.</p>
+<p>For these reasons, it is crucial that we understand what is happening to our farmland, and to understand that, we have to understand how these people are connecting to their land and caring for their land.</p>
+<p>This project explores the complex and intricate stories of farmers. These stories can give us insight into what will happen to farmland in the future and help us better understand how farmers relate to their land. By recognizing farmers’ more complex stories, we begin to see what farmers care about, and as environmentalists, we can relate to these shared values to help promote more sustainable practices.</p>
+<p><a href="https://burnssg0.github.io/data_story_3/">GitHub Site</a></p>
+<p>(<a href="https://github.com/burnssg0/data_story_3">GitHub Repo</a>)</p>
+
+
+
+ ]]></description>
+  <category>Agriculture</category>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</guid>
+  <pubDate>Fri, 10 Apr 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/2026-05-04-data-story-3/farm.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Is Going Vegetarian Worth It?</title>
+  <dc:creator>Sarah Grace Burns</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-2/meat.jpg" class="img-fluid"></p>
+<p><a href="https://www.kemin.com/na/en-us/blog/food/beef-prices-on-the-rise">Image Source</a></p>
+<p>It is hard to escape the problems our world faces. You don’t have to look far to see how our actions are cutting deep into the natural processes of our planet. Even when we aren’t searching for it, our teachers, peers, and the news remind us how the world is hurting and how we are part of the problem. Our generation has come of age alongside climate change. Perhaps this reflects present bias; however, as young adults, we are directly experiencing and feeling the detrimental effects of climate change as they become increasingly visible, recognized, and understood. “Global warming,” “sea level rise,” “carbon emissions,” “greenhouse effect,” “fossil fuels,” “pollution”—the list goes on—have been familiar words since grade school. Since we could talk, we have been spoon-fed solutions: turn the water off when you brush your teeth, “keep calm and don’t litter.” We recycle and turn out the lights, yet we still watch the world crumble before our eyes. The prolonged and consistent saturation of information we receive can make us apathetic, indifferent, detached, and unconcerned, even while we call ourselves environmentalists.</p>
+<p>As a 20-something “environmentalist” in college, I have often felt limited in how I can best serve the environment; while I try to live sustainably, I feel hindered in what I can actually do to combat climate change. Amidst today’s climate crisis, most of our actions to combat climate change focus on the transition to clean energy and reducing our reliance on fossil fuels. I try to limit my carbon footprint by minimizing driving and flying, but with short school breaks and my family living across the country, I find myself prioritizing my family over my carbon emissions. I turn out the lights when I can and try to minimize my energy use, but I have little control over Sewanee’s transition to clean energy. I even live in the Greenhouse, a sustainable-themed living community, but our house is poorly insulated and drafty, an energy suck. In this stage of life, I am often unable to choose the sustainable path. While these conventional pursuits are vital, they are often less effective in my life right now.</p>
+<p>This site explores a different possible path to climate action: the way we eat. This project will explore how what we eat impacts the environment and how small changes in our diet could help combat climate change.</p>
+<p><a href="https://burnssg0.github.io/vegetarian/">GitHub Site</a></p>
+<p>(<a href="https://github.com/burnssg0/vegetarian">GitHub Repo</a>)</p>
+
+
+
+ ]]></description>
+  <category>Agriculture</category>
+  <category>Climate-Change</category>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</guid>
+  <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/2026-05-04-data-story-2/meat.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Gaps in Clean Energy Access Between Low- and High-Income Countries</title>
+  <dc:creator>Sarah Grace Burns</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Most of us know that feeling when we wake up and realize our phone died overnight, and we forgot to plug it in. But beyond that moment, we don’t think much of the electricity we rely on. We flip on lights without thinking, pour a cold drink from the fridge, unwind in air conditioning after a long day, and walk home beneath the streetlights late at night without a second thought.</p>
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-1/energy.jpg" class="img-fluid" style="width:100.0%"></p>
+<p><a href="https://www.weforum.org/stories/2020/01/can-emerging-economies-leapfrog-the-energy-transition/">Image Source</a></p>
+<p>For many people, though, like the boy in this picture, those everyday comforts are not routine at all. They have grown up without reliable electricity and without the opportunities, safety, and ease it quietly provides.</p>
+<p>Access to electricity provides many benefits that are crucial for developing countries to grow and advance. Electricity is a form of healthcare, keeping food refrigerated and safe, making healthy food more available, refrigerating vaccines and other medicines, and providing necessary light and technologies for life-saving operations and procedures. Electricity improves safety by lighting up streets and houses. It improves education by making it possible to study after dark, opens access to global knowledge and communication through the internet, and creates learning environments where students can reliably engage with modern tools and resources. Clean green energy, in particular, can replace other forms of polluting energy, improving air quality on a local and global scale. Clean energy can also provide energy to homes without being reliant on a centralized grid or infrastructure that is often lacking in developing countries.</p>
+<p>Today, developed high-GDP countries are beginning to make the transition to clean energy. While this transition is vital, many developing countries lack access to reliable energy as a whole. Expanding access to clean energy in low-GDP countries presents a rare dual opportunity: to accelerate the global move toward sustainability while also providing a critical foundation for socioeconomic development, economic growth, and improved quality of life.</p>
+<p>This site explores and compares the use of clean energy in high-GDP countries and low-GDP countries, giving insight into how we can improve global access to energy and promote clean green energy worldwide.</p>
+<p><a href="https://burnssg0.github.io/energy/">GitHub Site</a></p>
+<p>(<a href="https://github.com/burnssg0/energy">GitHub Repo</a>)</p>
+
+
+
+ ]]></description>
+  <category>Climate-Change</category>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</guid>
+  <pubDate>Tue, 17 Feb 2026 06:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/2026-05-04-data-story-1/energy.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

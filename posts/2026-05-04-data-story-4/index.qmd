@@ -1,0 +1,24 @@
+---
+title: "Tempature and Rainfall Trends in Sewanee Tennesse"
+author: "Sarah Grace Burns"
+description: "Explore how tempatures and rainfall trends have changed over the years in Sewanee, TN."
+date: "2026-05-04"
+categories: [Place-Based, Climate-Change]
+image: sewanee.jpg
+---
+
+![](sewanee.jpg)
+
+[Image Source](https://thesewaneepurple.org/2018/10/05/a-list-of-things-you-have-to-do-before-cold-weather-hits-sewanee/)
+
+We know that climate change and global warming are affecting weather patterns on a global scale. Yet, at the local level, weather patterns can sometimes differ and follow different patterns than those soon globally. 
+
+Changes in weather patterns can greatly affect local ecosystems. It is important to observe and understand how the effects of climate change are impacting a specific area because each location will be affected differently. 
+
+This dashboard uses temperature and rainfall data to explore how weather patterns in Sewanee, Tennessee, have changed over time. Users can view long-term trends as well as directly compare specific years. This information can help reveal potential shifts in local climate patterns associated with climate change.
+
+
+[See how to use the dashboard and explore the data here!](https://drive.google.com/file/d/1jb156qFFj94B59KLo2wGZ26R9PiAJHcK/view?usp=sharing)
+
+([GitHub Repo](https://github.com/burnssg0/data_story_4))
+

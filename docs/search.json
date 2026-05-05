@@ -2,29 +2,64 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this blog"
+    "text": "My name is Sarah Grace Burns, and I am about to graduate from Sewanee: The University of the South. During my time at Sewanee, I have studied Biology with a concentration in Ecology and Biodiversity. For the past three years, I have conducted research on local farmland while also listening to the stories of farmers in the region. I have always believed that science becomes most meaningful when it is effectively communicated. Because of this, I am especially drawn to integrating my interests in science and storytelling. \n(I also am realizing I have no good professional photos of myself!)"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Sg’s blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "No matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/2026-05-04-data-story-1/index.html",
+    "href": "posts/2026-05-04-data-story-1/index.html",
+    "title": "Gaps in Clean Energy Access Between Low- and High-Income Countries",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Most of us know that feeling when we wake up and realize our phone died overnight, and we forgot to plug it in. But beyond that moment, we don’t think much of the electricity we rely on. We flip on lights without thinking, pour a cold drink from the fridge, unwind in air conditioning after a long day, and walk home beneath the streetlights late at night without a second thought.\n\nImage Source\nFor many people, though, like the boy in this picture, those everyday comforts are not routine at all. They have grown up without reliable electricity and without the opportunities, safety, and ease it quietly provides.\nAccess to electricity provides many benefits that are crucial for developing countries to grow and advance. Electricity is a form of healthcare, keeping food refrigerated and safe, making healthy food more available, refrigerating vaccines and other medicines, and providing necessary light and technologies for life-saving operations and procedures. Electricity improves safety by lighting up streets and houses. It improves education by making it possible to study after dark, opens access to global knowledge and communication through the internet, and creates learning environments where students can reliably engage with modern tools and resources. Clean green energy, in particular, can replace other forms of polluting energy, improving air quality on a local and global scale. Clean energy can also provide energy to homes without being reliant on a centralized grid or infrastructure that is often lacking in developing countries.\nToday, developed high-GDP countries are beginning to make the transition to clean energy. While this transition is vital, many developing countries lack access to reliable energy as a whole. Expanding access to clean energy in low-GDP countries presents a rare dual opportunity: to accelerate the global move toward sustainability while also providing a critical foundation for socioeconomic development, economic growth, and improved quality of life.\nThis site explores and compares the use of clean energy in high-GDP countries and low-GDP countries, giving insight into how we can improve global access to energy and promote clean green energy worldwide.\nGitHub Site\n(GitHub Repo)"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-2/index.html",
+    "href": "posts/2026-05-04-data-story-2/index.html",
+    "title": "Is Going Vegetarian Worth It?",
+    "section": "",
+    "text": "Image Source\nIt is hard to escape the problems our world faces. You don’t have to look far to see how our actions are cutting deep into the natural processes of our planet. Even when we aren’t searching for it, our teachers, peers, and the news remind us how the world is hurting and how we are part of the problem. Our generation has come of age alongside climate change. Perhaps this reflects present bias; however, as young adults, we are directly experiencing and feeling the detrimental effects of climate change as they become increasingly visible, recognized, and understood. “Global warming,” “sea level rise,” “carbon emissions,” “greenhouse effect,” “fossil fuels,” “pollution”—the list goes on—have been familiar words since grade school. Since we could talk, we have been spoon-fed solutions: turn the water off when you brush your teeth, “keep calm and don’t litter.” We recycle and turn out the lights, yet we still watch the world crumble before our eyes. The prolonged and consistent saturation of information we receive can make us apathetic, indifferent, detached, and unconcerned, even while we call ourselves environmentalists.\nAs a 20-something “environmentalist” in college, I have often felt limited in how I can best serve the environment; while I try to live sustainably, I feel hindered in what I can actually do to combat climate change. Amidst today’s climate crisis, most of our actions to combat climate change focus on the transition to clean energy and reducing our reliance on fossil fuels. I try to limit my carbon footprint by minimizing driving and flying, but with short school breaks and my family living across the country, I find myself prioritizing my family over my carbon emissions. I turn out the lights when I can and try to minimize my energy use, but I have little control over Sewanee’s transition to clean energy. I even live in the Greenhouse, a sustainable-themed living community, but our house is poorly insulated and drafty, an energy suck. In this stage of life, I am often unable to choose the sustainable path. While these conventional pursuits are vital, they are often less effective in my life right now.\nThis site explores a different possible path to climate action: the way we eat. This project will explore how what we eat impacts the environment and how small changes in our diet could help combat climate change.\nGitHub Site\n(GitHub Repo)"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-4/index.html",
+    "href": "posts/2026-05-04-data-story-4/index.html",
+    "title": "Tempature and Rainfall Trends in Sewanee Tennesse",
+    "section": "",
+    "text": "Image Source\nWe know that climate change and global warming are affecting weather patterns on a global scale. Yet, at the local level, weather patterns can sometimes differ and follow different patterns than those soon globally.\nChanges in weather patterns can greatly affect local ecosystems. It is important to observe and understand how the effects of climate change are impacting a specific area because each location will be affected differently.\nThis dashboard uses temperature and rainfall data to explore how weather patterns in Sewanee, Tennessee, have changed over time. Users can view long-term trends as well as directly compare specific years. This information can help reveal potential shifts in local climate patterns associated with climate change.\nSee how to use the dashboard and explore the data here!\n(GitHub Repo)"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-3/index.html",
+    "href": "posts/2026-05-04-data-story-3/index.html",
+    "title": "Looking Under the Crop and into the Weeds",
+    "section": "",
+    "text": "What did you have for breakfast this morning?\nMaybe it was eggs and bacon? Maybe it was a bowl of cereal? Maybe it was just a cup of coffee.\nWhatever it was, I’m going to guess that while you ate it, you probably didn’t think much about where it came from. Not even the store it came from, but the land, seeds, the people who planted the seed, watered the crop, and harvested the product.\n\nImage Source\nWe have become increasingly disconnected from the origin of our food: farms. Yet beyond sustaining us with the food we all consume every single day, farms have crucial social and ecological benefits that we often fail to recognize.\nFarmland has complex cultural and social implications, connecting the people who farm the land to their land. These connections have deep implications for the health of the local community as well as the farming populations as a whole.\nEcologically, farmland, with good stewardship, provides a slew of ecosystem services. Farms can sequester carbon in the soil, help regulate water quality and water flow, provide habitat for species, and the list goes on. However, with poor management, farming can have immense detrimental effects on the environment as well.\nFor these reasons, it is crucial that we understand what is happening to our farmland, and to understand that, we have to understand how these people are connecting to their land and caring for their land.\nThis project explores the complex and intricate stories of farmers. These stories can give us insight into what will happen to farmland in the future and help us better understand how farmers relate to their land. By recognizing farmers’ more complex stories, we begin to see what farmers care about, and as environmentalists, we can relate to these shared values to help promote more sustainable practices.\nGitHub Site\n(GitHub Repo)"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-5/index.html",
+    "href": "posts/2026-05-04-data-story-5/index.html",
+    "title": "Non-Monetary Values of Farmland",
+    "section": "",
+    "text": "Image Source\nAs mentioned in my previous blog post, Looking Under the Crop and into the Weeds, the stories and complexities behind farming are crucial for predicting what farmland will look like in the future and for understanding how farmers connect to their land. Recognizing the values that farmers associate with their land is essential for developing meaningful policies and cultivating environmentally friendly practices.\nBeyond providing economic gains, farmland also holds important non-monetary values for farmers. To better understand how farmers relate to their land, we asked them directly. Through these conversations, we gain insight into what this land means to people and how those values shape the way it is managed.\nThis project includes a data entry app for recording responses during these interviews, as well as a website that explores and highlights some of this qualitative data.\nGitHub Site\n(GitHub Repo)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sg’s blog",
+    "title": "R Portfolio",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 21, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 18, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my R portfolio. This portfolio highlights my work from ESCI 222: Data storytelling & sustainable development.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGaps in Clean Energy Access Between Low- and High-Income Countries\n\n\n\nClimate-Change\n\n\n\nAccess to renewable energy differs greatly between low and high income countries.\n\n\n\n\n\nFeb 17, 2026\n\n\nSarah Grace Burns\n\n\n\n\n\n\n\n\n\n\n\n\nIs Going Vegetarian Worth It?\n\n\n\nAgriculture\n\nClimate-Change\n\n\n\nThe hidden environmental impacts behind what we eat.\n\n\n\n\n\nMar 3, 2026\n\n\nSarah Grace Burns\n\n\n\n\n\n\n\n\n\n\n\n\nLooking Under the Crop and into the Weeds\n\n\n\nAgriculture\n\n\n\nThe hidden stories behind agricultural land and its importance.\n\n\n\n\n\nApr 10, 2026\n\n\nSarah Grace Burns\n\n\n\n\n\n\n\n\n\n\n\n\nNon-Monetary Values of Farmland\n\n\n\nAgriculture\n\nPlace-Based\n\n\n\nBeyond economic benefits, farmland holds important non-monetary values that play a significant role in both the social fabric of communities and the health of ecosystems.\n\n\n\n\n\nApr 28, 2026\n\n\nSarah Grace Burns\n\n\n\n\n\n\n\n\n\n\n\n\nTempature and Rainfall Trends in Sewanee Tennesse\n\n\n\nPlace-Based\n\nClimate-Change\n\n\n\nExplore how tempatures and rainfall trends have changed over the years in Sewanee, TN.\n\n\n\n\n\nMay 4, 2026\n\n\nSarah Grace Burns\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/about.html",
+    "href": "blog/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   }
 ]
